@@ -44,7 +44,7 @@ This project includes a `src/components` folder containing several React compone
   - Fix the JSX so it displays information derived from state, instead of hard-coded data.
   - Fix the event handlers so they allow the user to update state by interacting with the page.
 
-### Task 2b: Exit Ticket
+### Task 2b: Exit Ticketas
 
 Once you begin, you will have 15 minutes to answer the questions [here](https://app.codesignal.com/public-test/R4yNg7CrXix4qryxQ/wrFc7AbwWfnACu).
 
